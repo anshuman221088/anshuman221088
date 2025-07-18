@@ -45,17 +45,16 @@
 
 | Project | Description | Tech |
 |--------|-------------|------|
-| [🧠 GenAI-Resume-Matcher](https://github.com/yourusername/GenAI-Resume-Matcher) | AI system that matches resumes to job descriptions using LLMs. | OpenAI, LangChain, Pinecone |
-| [📊 Sales Forecasting](https://github.com/yourusername/Sales-Forecasting-ML) | ML model to predict future sales for retail chain using time series. | Scikit-learn, XGBoost, Prophet |
-| [🔍 NLP Sentiment Analyzer](https://github.com/yourusername/Sentiment-NLP) | Sentiment classification model using transformer-based architecture. | BERT, HuggingFace, PyTorch |
-| [☁️ ML on AWS](https://github.com/yourusername/AWS-ML-Pipeline) | End-to-end ML pipeline deployed on AWS using Lambda & SageMaker. | AWS, Lambda, SageMaker |
+|Customer Attrition Prediction Model| Classification ML models to predict the likelihood of customer attrition in Mobile Banking App| Pandas, NumPy, Scikit Learn, AWS Sagemaker|
+|Personal Loan Default Prediction Model| Classification ML models to predict loan default in personal loan segment.| Scikit-learn, Pandas, Azure ML Studio |
 
 ---
 
 ## 📫 Let's Connect
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/yourlinkedin/" target="_blank">
+  <div align="center">
+  <a href="https://www.linkedin.com/in/ansuman-avinab-parida-99100377/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:anshumanparida221088@gmail.com">
